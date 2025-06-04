@@ -1,8 +1,8 @@
-public class Reflaction {
+public class ReflactionObject {
     private final String name;
     private int age;
 
-    public Reflaction(String name, int age) {
+    public ReflactionObject(String name, int age) {
         this.name = name;
         this.age = age;
     }
@@ -18,5 +18,18 @@ public class Reflaction {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    public void meow(){
+        System.out.println("Meow");
+    }
+    private void heyThisIsPrivate(){
+        System.out.println("how did you do this?  ");
+    }
+    public static void heyThisIsPublicStaticMethod(){
+        System.out.println("how did you do this heyThisIsPublicStaticMethod?  ");
+    }
+    private static void heyThisIsPrivateStaticMethod(){
+        System.out.println("how did you do this heyThisIsPrivateStaticMethod?  ");
     }
 }
