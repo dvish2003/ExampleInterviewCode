@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AssertDebugKeyWord/AssertDebugKeyWord.iml" filepath="$PROJECT_DIR$/AssertDebugKeyWord/AssertDebugKeyWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Enums/Enums.iml" filepath="$PROJECT_DIR$/Enums/Enums.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExampleInterviewCode.iml" filepath="$PROJECT_DIR$/ExampleInterviewCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/GarbageCollecter/GarbageCollecter.iml" filepath="$PROJECT_DIR$/GarbageCollecter/GarbageCollecter.iml" />
@@ -9,13 +10,16 @@
       <module fileurl="file://$PROJECT_DIR$/JavaRecursion/JavaRecursion.iml" filepath="$PROJECT_DIR$/JavaRecursion/JavaRecursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambaExpression/LambaExpression.iml" filepath="$PROJECT_DIR$/LambaExpression/LambaExpression.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalKeyWord/OptionalKeyWord.iml" filepath="$PROJECT_DIR$/OptionalKeyWord/OptionalKeyWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Reflaction/Reflaction.iml" filepath="$PROJECT_DIR$/Reflaction/Reflaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
       <module fileurl="file://$PROJECT_DIR$/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.iml" filepath="$PROJECT_DIR$/Shallow_vs_DeepCopy/Shallow_vs_DeepCopy.iml" />
       <module fileurl="file://$PROJECT_DIR$/SingleTone/SingleTone.iml" filepath="$PROJECT_DIR$/SingleTone/SingleTone.iml" />
       <module fileurl="file://$PROJECT_DIR$/String_StringBuilder_StringBuffer/String_StringBuilder_StringBuffer.iml" filepath="$PROJECT_DIR$/String_StringBuilder_StringBuffer/String_StringBuilder_StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernoryOperators/TernoryOperators.iml" filepath="$PROJECT_DIR$/TernoryOperators/TernoryOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/genarics/genarics.iml" filepath="$PROJECT_DIR$/genarics/genarics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tryWithResouce/tryWithResouce.iml" filepath="$PROJECT_DIR$/tryWithResouce/tryWithResouce.iml" />
     </modules>
   </component>
 </project>
