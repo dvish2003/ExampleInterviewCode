@@ -8,6 +8,7 @@ class Test{
     public static void main(String[] args) {
         ExtendThread extendThread = new ExtendThread();
         extendThread.start();
+
     }
 }
 
